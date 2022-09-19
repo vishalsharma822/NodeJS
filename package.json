@@ -1,0 +1,27 @@
+{
+  "name": "my_node_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalsharma822/NodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishalsharma822/NodeJS/issues"
+  },
+  "homepage": "https://github.com/vishalsharma822/NodeJS#readme",
+  "devDependencies": {},
+  "description": ""
+}
