@@ -1,0 +1,3 @@
+single file creation by "fs.writeFileSync"
+
+fs.writeFileSync('single_file.txt','single file creation by "fs.writeFileSync"');
